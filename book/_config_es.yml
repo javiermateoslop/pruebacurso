@@ -9,7 +9,7 @@ logo: "_static/logo.png"
 language: es
 exclude_patterns: ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints", "_build_*", "en/", "temp_build_*", "latex_templates*", "_TRASH*"]
 execute:
-  execute_notebooks: off
+  execute_notebooks: auto
 parse:
   myst_enable_extensions:
     - colon_fence
