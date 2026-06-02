@@ -1,20 +1,6 @@
 format: jb-book
 root: es/intro
 parts:
-  - caption: Gráficas Dinámicas
+  - caption: Bibliografía
     chapters:
-    - file: es/08_graficas_dinamicas/intro
     - file: es/bibliografia
-  - caption: Material de Clase
-    chapters:
-    - file: es/recursos/TEMA 1 - Campo Electrico I
-    - file: es/recursos/TEMA 2 - Campo Electrico II
-    - file: es/recursos/TEMA 3 - Potencial Electrico
-    - file: es/recursos/TEMA 4 - Capacidad
-    - file: es/recursos/TEMA 5 - Corriente Electrica y Circuitos de Corriente Continua
-    - file: es/recursos/TEMA 6 - Campo Magnetico new
-    - file: es/recursos/TEMA 7 - Fuentes del Campo Magnetico new
-    - file: es/recursos/TEMA 8 - Induccion Electromagnetica
-    - file: es/recursos/TEMA 9 - Corriente Alterna
-    - file: es/recursos/TEMA 10 - Ecuaciones de Maxwell
-    - file: es/potencial_electrico
