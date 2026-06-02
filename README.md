@@ -11,7 +11,7 @@ Material y plantilla del curso **Elaboración de libros electrónicos mediante c
 
 La cita recomendada está en formato APA 7.ª edición. También hay metadatos reutilizables en [`CITATION.cff`](CITATION.cff), [`CITATION.bib`](CITATION.bib) y [`.zenodo.json`](.zenodo.json).
 
-> Lozano Murciego, Á., & Sales Mendes, A. F. (2026). *Elaboración de libros electrónicos mediante código y asistentes de Inteligencia Artificial*. Universidad de Salamanca. https://doi.org/10.5281/zenodo.20449102
+> Javier Mateos López, A. F. (2026). *Elaboración de libros electrónicos mediante código y asistentes de Inteligencia Artificial*. Universidad de Salamanca. https://doi.org/10.5281/zenodo.20449102
 
 DOI definitivo de Zenodo para esta versión:
 
@@ -19,8 +19,7 @@ DOI definitivo de Zenodo para esta versión:
 
 Autores:
 
-- Álvaro Lozano Murciego — ORCID: https://orcid.org/0000-0002-0493-4471
-- André Filipe Sales Mendes — ORCID: https://orcid.org/0000-0003-0976-2784
+- Javier Mateos López — ORCID: https://orcid.org/0000-0003-4041-7145
 
 ---
 
@@ -257,6 +256,6 @@ Este proyecto está licenciado bajo **CC BY 4.0** — eres libre de usar, modifi
 
 ## 👥 Créditos
 
-- **Álvaro Lozano Murciego** — Universidad de Salamanca
+- **Javier Mateos López** — Universidad de Salamanca
 - **André Filipe Sales Mendes** — Universidad de Salamanca
 - Basado en [TeachBooks](https://teachbooks.io/) y [Jupyter Book](https://jupyterbook.org/)

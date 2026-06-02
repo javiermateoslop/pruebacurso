@@ -4,3 +4,4 @@ parts:
   - caption: Gráficas Dinámicas
     chapters:
     - file: es/08_graficas_dinamicas/intro
+    - file: es/bibliografia.md

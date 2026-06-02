@@ -4,3 +4,4 @@ parts:
   - caption: Dynamic Graphs
     chapters:
     - file: en/08_dynamic_graphs/intro
+    - file: en/bibliography.md

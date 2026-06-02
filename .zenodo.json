@@ -4,14 +4,9 @@
   "publication_type": "book",
   "creators": [
     {
-      "name": "Lozano Murciego, Álvaro",
+      "name": "Mateos Lopez, Javier",
       "affiliation": "Universidad de Salamanca",
-      "orcid": "0000-0002-0493-4471"
-    },
-    {
-      "name": "Sales Mendes, André Filipe",
-      "affiliation": "Universidad de Salamanca",
-      "orcid": "0000-0003-0976-2784"
+      "orcid": "0000-0003-4041-7145"
     }
   ],
   "description": "<p>Material del curso <em>Elaboración de libros electrónicos mediante código y asistentes de Inteligencia Artificial</em>, orientado a la creación de libros docentes interactivos para las Facultades de Ciencias y de Ciencias Químicas de la Universidad de Salamanca.</p><p>El proyecto combina una plantilla reproducible basada en Jupyter Book y TeachBooks con guías docentes para trabajar con asistentes de inteligencia artificial.</p>",
@@ -23,7 +18,6 @@
     "MyST Markdown",
     "Universidad de Salamanca",
     "Ciencias",
-    "Ciencias Químicas",
     "Docencia",
     "Libros electrónicos",
     "Inteligencia Artificial"
