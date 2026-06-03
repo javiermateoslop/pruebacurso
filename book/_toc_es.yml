@@ -13,6 +13,4 @@ parts:
       - file: es/recursos/TEMA_8_Induccion_Electromagnetica
       - file: es/recursos/TEMA_9_Corriente_Alterna
       - file: es/recursos/TEMA_10_Ecuaciones_de_Maxwell
-  - caption: Bibliografía
-    chapters:
-      - file: es/bibliografia
+

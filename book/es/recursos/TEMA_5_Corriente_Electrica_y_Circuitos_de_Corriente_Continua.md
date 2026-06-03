@@ -98,7 +98,7 @@
 :align: center
 ```
 
-```{image} ../../_static/recursos/TEMA_5_Corriente_Electrica_y_Circuitos_de_Corriente_Continua_slide31.wmf
+```{image} ../../_static/recursos/TEMA_5_Corriente_Electrica_y_Circuitos_de_Corriente_Continua_slide31.png
 :alt: Diapositiva
 :width: 80%
 :align: center

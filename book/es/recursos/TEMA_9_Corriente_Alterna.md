@@ -20,13 +20,13 @@
 :align: center
 ```
 
-```{image} ../../_static/recursos/TEMA_9_Corriente_Alterna_slide18.wmf
+```{image} ../../_static/recursos/TEMA_9_Corriente_Alterna_slide18.png
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{image} ../../_static/recursos/TEMA_9_Corriente_Alterna_slide19.wmf
+```{image} ../../_static/recursos/TEMA_9_Corriente_Alterna_slide19.png
 :alt: Diapositiva
 :width: 80%
 :align: center
