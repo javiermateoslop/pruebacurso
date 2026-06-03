@@ -13,6 +13,3 @@ parts:
       - file: en/recursos/TEMA_8_Electromagnetic_Induction
       - file: en/recursos/TEMA_9_Alternating_Current
       - file: en/recursos/TEMA_10_Maxwell_Equations
-  - caption: Bibliography
-    chapters:
-      - file: en/bibliography
