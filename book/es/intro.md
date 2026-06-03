@@ -7,7 +7,7 @@ Bienvenido al repositorio de imágenes de los **Apuntes de Física III** del Gra
 También puedes descargar la versión imprimible del libro:
 
 - [Descargar PDF en español](../_static/apuntesdefisica.pdf)
-- [Download PDF in English](../_static/apuntesdefisica.pdf)
+- [Download PDF in English](../_static/ImagesofPPTs.pdf)
 
 ```{note}
 Este proyecto está diseñado para ser usado con **VS Code** y asistentes de **IA**.

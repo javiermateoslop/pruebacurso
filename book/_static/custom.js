@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", function () {
     setTimeout(() => clearInterval(intervalId), 5000);
 
     // Accessibility: OpenDyslexic Toggle
-    (function() {
+    (function () {
         // Load OpenDyslexic font from CDN (lazy — only when needed, but preloaded for instant toggle)
         const fontLink = document.createElement("link");
         fontLink.rel = "stylesheet";
@@ -139,7 +139,7 @@ document.addEventListener("DOMContentLoaded", function () {
             btn.classList.add("active");
         }
 
-        btn.addEventListener("click", function() {
+        btn.addEventListener("click", function () {
             document.documentElement.classList.toggle("opendyslexic-mode");
             const isActive = document.documentElement.classList.contains("opendyslexic-mode");
             localStorage.setItem("teachbook-opendyslexic", isActive);
@@ -262,10 +262,6 @@ function injectPDFButton(languages, rootPrefix) {
             if (path.includes(`/${l.code}/`)) lang = l.code;
         });
 
-        const pdfFilenames = {
-            "es": "ElaboracionDeLibrosElectronicosMedianteCodigoYAsistentesDeInteligenciaArtificial.pdf",
-            "en": "CreatingElectronicBooksWithCodeAndArtificialIntelligenceAssistants.pdf"
-        };
         const pdfFilename = pdfFilenames[lang] || `TeachBook_${lang}.pdf`;
         const pdfUrl = rootPrefix + `_static/${pdfFilename}`;
 
