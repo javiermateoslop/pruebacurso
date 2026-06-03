@@ -3,13 +3,13 @@ root: en/intro
 parts:
   - caption: Resources
     chapters:
-      - file: en/recursos/TEMA_1_Electric_Field_I
-      - file: en/recursos/TEMA_2_Electric_Field_II
-      - file: en/recursos/TEMA_3_Electric_Potential
-      - file: en/recursos/TEMA_4_Capacitance
-      - file: en/recursos/TEMA_5_Electric_Current_and_DC_Circuits
-      - file: en/recursos/TEMA_6_Magnetic_Field_new
-      - file: en/recursos/TEMA_7_Magnetic_Field_Sources_new
-      - file: en/recursos/TEMA_8_Electromagnetic_Induction
-      - file: en/recursos/TEMA_9_Alternating_Current
-      - file: en/recursos/TEMA_10_Maxwell_Equations
+      - file: en/recursos/Electric_Field_I
+      - file: en/recursos/Electric_Field_II
+      - file: en/recursos/Electric_Potential
+      - file: en/recursos/Capacitance
+      - file: en/recursos/Electric_Current_and_DC_Circuits
+      - file: en/recursos/Magnetic_Field
+      - file: en/recursos/Magnetic_Field_Sources
+      - file: en/recursos/Electromagnetic_Induction
+      - file: en/recursos/Alternating_Current
+      - file: en/recursos/Maxwell_Equations
