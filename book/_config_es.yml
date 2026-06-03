@@ -1,8 +1,5 @@
 title: |
-  Elaboración de libros
-  electrónicos mediante
-  código y asistentes de
-  Inteligencia Artificial
+  Imágenes de las presentaciones de Física III
 author: Javier Mateos López
 copyright: "2026"
 logo: "_static/logo.png"
@@ -50,15 +47,14 @@ latex_docclass:
 latex:
   latex_engine: xelatex
   options: "spanish"
-  subtitle: "Curso para las Facultades de Ciencias y de Ciencias Químicas"    # Opcional: subtítulo del libro
+  subtitle: "Prueba para el curso"    # Opcional: subtítulo del libro
   header_title: |
-    Elaboración de libros electrónicos
-    con código e IA
+    Imágenes de las presentaciones de Física III
   institution: "Universidad de Salamanca"  # Opcional
   edition: "1ª Edición"               # Opcional
-  cover_logo: "_static/usal_logo.png"  # Logo de la portada PDF; el logo web se configura arriba en `logo`
+  cover_logo: "_static/logo.png"  # Logo de la portada PDF; el logo web se configura arriba en `logo`
   # isbn: "978-84-XXXXX-XX-X"         # Opcional: descomentar cuando se tenga
-  doi: "10.5281/zenodo.20449102"
+  doi: "pendiente"
   preamble: |
     \usepackage[spanish]{babel}
     \selectlanguage{spanish}

@@ -1,6 +1,6 @@
 # Introducción
 
-Bienvenido al repositorio de imégenes de los **Apuntes de Física III** del Grado en Física de la USAL.
+Bienvenido al repositorio de imágenes de los **Apuntes de Física III** del Grado en Física de la USAL.
 
 ## Versión PDF
 

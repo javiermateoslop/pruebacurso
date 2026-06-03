@@ -16,7 +16,7 @@ In this book you will find:
 
 You can also download the printable version of the book:
 
-- [Download PDF in English](../_static/apuntesdefisica.pdf)
+- [Download PDF in English](../_static/ImagesofPPTs.pdf)
 - [Descargar PDF en español](../_static/apuntesdefisica.pdf)
 
 ```{note}

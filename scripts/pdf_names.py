@@ -1,6 +1,6 @@
 PDF_FILENAMES = {
     "es": "apuntesdefisica.pdf",
-    "en": "apuntesdefisica.pdf",
+    "en": "ImagesofPPTs.pdf",
 }
 
 DEFAULT_PDF_FILENAME = PDF_FILENAMES["es"]
