@@ -262,6 +262,10 @@ function injectPDFButton(languages, rootPrefix) {
             if (path.includes(`/${l.code}/`)) lang = l.code;
         });
 
+        const pdfFilenames = {
+            "es": "Apuntesdefisica.pdf",
+            "en": "ImagesofPPTs.pdf"
+        };
         const pdfFilename = pdfFilenames[lang] || `TeachBook_${lang}.pdf`;
         const pdfUrl = rootPrefix + `_static/${pdfFilename}`;
 
