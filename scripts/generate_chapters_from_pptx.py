@@ -40,9 +40,10 @@ for pptx_path in RESOURCES_DIR.glob('*.pptx'):
     en_title = EN_TITLES.get(stem, stem)
     en_file_name = to_toc_name(en_title)
 
-    # Gather images for this pptx
-    image_pattern = STATIC_IMG_DIR / f"{stem}_slide*.*"
-    image_files = sorted(STATIC_IMG_DIR.glob(f"{stem}_slide*.*"))
+    safe_stem = stem.replace(' ', '_').replace('-', '_')
+    while '__' in safe_stem: safe_stem = safe_stem.replace('__', '_')
+    image_pattern = STATIC_IMG_DIR / f"{safe_stem}_slide*.*"
+    image_files = sorted(STATIC_IMG_DIR.glob(f"{safe_stem}_slide*.*"))
 
     # Build markdown content
     es_content = f"# {stem}\n\n*Resumen del contenido del PPT proporcionado por el docente.*\n\n"
@@ -50,7 +51,7 @@ for pptx_path in RESOURCES_DIR.glob('*.pptx'):
     for img_path in image_files:
         rel_path = img_path.relative_to(Path(r"u:/antigravityprojects/libroprueba/pruebacurso/book"))
         # Como los .md están en book/es/recursos o book/en/recursos, necesitamos volver 2 niveles atrás
-        figure_block = f"```{{figure}} ../../{rel_path.as_posix()}\n:alt: Diapositiva\n:width: 80%\n:align: center\n```\n\n"
+        figure_block = f"```{{image}} ../../{rel_path.as_posix()}\n:alt: Diapositiva\n:width: 80%\n:align: center\n```\n\n"
         es_content += figure_block
         en_content += figure_block
 

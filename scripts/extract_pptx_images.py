@@ -17,7 +17,9 @@ for pptx_file in RESOURCES_DIR.glob("*.pptx"):
                 image = shape.image
                 image_bytes = image.blob
                 ext = image.ext
-                image_name = f"{pptx_file.stem}_slide{slide_idx}.{ext}"
+                safe_stem = pptx_file.stem.replace(' ', '_').replace('-', '_')
+                while '__' in safe_stem: safe_stem = safe_stem.replace('__', '_')
+                image_name = f"{safe_stem}_slide{slide_idx}.{ext}"
                 image_path = OUTPUT_DIR / image_name
                 with open(image_path, "wb") as f:
                     f.write(image_bytes)

@@ -594,7 +594,7 @@ def build_language(lang):
     finally:
         # Cleanup temp directory
         if os.path.exists(temp_build_root):
-            shutil.rmtree(temp_build_root)
+            shutil.rmtree(temp_build_root, ignore_errors=True)
 
 
 def merge_dir_into(src_dir, dst_dir):

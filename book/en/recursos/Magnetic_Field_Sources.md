@@ -2,73 +2,73 @@
 
 *Summary of the PPT content provided by the teacher.*
 
-```{figure} ../../_static/recursos/TEMA 7 - Fuentes del Campo Magnetico new_slide10.jpg
+```{image} ../../_static/recursos/TEMA_7_Fuentes_del_Campo_Magnetico_new_slide10.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} ../../_static/recursos/TEMA 7 - Fuentes del Campo Magnetico new_slide13.jpg
+```{image} ../../_static/recursos/TEMA_7_Fuentes_del_Campo_Magnetico_new_slide13.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} ../../_static/recursos/TEMA 7 - Fuentes del Campo Magnetico new_slide14.jpg
+```{image} ../../_static/recursos/TEMA_7_Fuentes_del_Campo_Magnetico_new_slide14.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} ../../_static/recursos/TEMA 7 - Fuentes del Campo Magnetico new_slide16.jpg
+```{image} ../../_static/recursos/TEMA_7_Fuentes_del_Campo_Magnetico_new_slide16.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} ../../_static/recursos/TEMA 7 - Fuentes del Campo Magnetico new_slide17.jpg
+```{image} ../../_static/recursos/TEMA_7_Fuentes_del_Campo_Magnetico_new_slide17.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} ../../_static/recursos/TEMA 7 - Fuentes del Campo Magnetico new_slide2.jpg
+```{image} ../../_static/recursos/TEMA_7_Fuentes_del_Campo_Magnetico_new_slide2.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} ../../_static/recursos/TEMA 7 - Fuentes del Campo Magnetico new_slide23.jpg
+```{image} ../../_static/recursos/TEMA_7_Fuentes_del_Campo_Magnetico_new_slide23.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} ../../_static/recursos/TEMA 7 - Fuentes del Campo Magnetico new_slide29.jpg
+```{image} ../../_static/recursos/TEMA_7_Fuentes_del_Campo_Magnetico_new_slide29.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} ../../_static/recursos/TEMA 7 - Fuentes del Campo Magnetico new_slide3.jpg
+```{image} ../../_static/recursos/TEMA_7_Fuentes_del_Campo_Magnetico_new_slide3.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} ../../_static/recursos/TEMA 7 - Fuentes del Campo Magnetico new_slide30.gif
+```{image} ../../_static/recursos/TEMA_7_Fuentes_del_Campo_Magnetico_new_slide30.gif
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} ../../_static/recursos/TEMA 7 - Fuentes del Campo Magnetico new_slide31.jpg
+```{image} ../../_static/recursos/TEMA_7_Fuentes_del_Campo_Magnetico_new_slide31.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} ../../_static/recursos/TEMA 7 - Fuentes del Campo Magnetico new_slide9.jpg
+```{image} ../../_static/recursos/TEMA_7_Fuentes_del_Campo_Magnetico_new_slide9.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
