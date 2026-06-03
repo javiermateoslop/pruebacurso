@@ -2,103 +2,103 @@
 
 *Resumen del contenido del PPT proporcionado por el docente.*
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide12.png
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide12.png
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide14.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide14.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide15.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide15.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide16.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide16.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide16.png
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide16.png
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide17.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide17.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide19.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide19.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide2.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide2.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide22.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide22.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide27.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide27.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide28.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide28.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide28.png
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide28.png
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide29.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide29.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide30.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide30.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide33.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide33.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide35.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide35.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center
 ```
 
-```{figure} _static/recursos/TEMA 1 - Campo Electrico I_slide36.jpg
+```{figure} ../../_static/recursos/TEMA 1 - Campo Electrico I_slide36.jpg
 :alt: Diapositiva
 :width: 80%
 :align: center

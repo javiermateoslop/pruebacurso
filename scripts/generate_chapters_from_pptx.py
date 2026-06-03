@@ -49,7 +49,8 @@ for pptx_path in RESOURCES_DIR.glob('*.pptx'):
     en_content = f"# {en_title}\n\n*Summary of the PPT content provided by the teacher.*\n\n"
     for img_path in image_files:
         rel_path = img_path.relative_to(Path(r"u:/antigravityprojects/libroprueba/pruebacurso/book"))
-        figure_block = f"```{{figure}} {rel_path.as_posix()}\n:alt: Diapositiva\n:width: 80%\n:align: center\n```\n\n"
+        # Como los .md están en book/es/recursos o book/en/recursos, necesitamos volver 2 niveles atrás
+        figure_block = f"```{{figure}} ../../{rel_path.as_posix()}\n:alt: Diapositiva\n:width: 80%\n:align: center\n```\n\n"
         es_content += figure_block
         en_content += figure_block
 
