@@ -263,7 +263,7 @@ function injectPDFButton(languages, rootPrefix) {
         });
 
         const pdfFilenames = {
-            "es": "Apuntesdefisica.pdf",
+            "es": "apuntesdefisica.pdf",
             "en": "ImagesofPPTs.pdf"
         };
         const pdfFilename = pdfFilenames[lang] || `TeachBook_${lang}.pdf`;
