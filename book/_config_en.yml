@@ -1,6 +1,6 @@
 title: |
   Images of the Fisica III PPTs
-author: Javier Mateos Lópezººº
+author: Javier Mateos López
 copyright: "2026"
 logo: "_static/logo.png"
 language: en
@@ -52,7 +52,7 @@ latex:
     Images of the Fisica III PPTs
   institution: "Universidad de Salamanca"  # Optional
   edition: "1st Edition"                # Optional
-  cover_logo: "_static/usal_logo.png"  # PDF cover logo; the web logo is configured above in `logo`
+  cover_logo: "_static/logo.png"  # PDF cover logo; the web logo is configured above in `logo`
   # isbn: "978-84-XXXXX-XX-X"          # Optional
   doi: "10.5281/zenodo.20449102"
   preamble: |

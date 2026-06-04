@@ -1,5 +1,7 @@
 title: |
-  Imágenes de las presentaciones de Física III
+  Imágenes de las
+  presentaciones
+  de Física III
 author: Javier Mateos López
 copyright: "2026"
 logo: "_static/logo.png"
@@ -49,7 +51,9 @@ latex:
   options: "spanish"
   subtitle: "Prueba para el curso"    # Opcional: subtítulo del libro
   header_title: |
-    Imágenes de las presentaciones de Física III
+    Imágenes de las 
+    presentaciones 
+    de Física III
   institution: "Universidad de Salamanca"  # Opcional
   edition: "1ª Edición"               # Opcional
   cover_logo: "_static/logo.png"  # Logo de la portada PDF; el logo web se configura arriba en `logo`
