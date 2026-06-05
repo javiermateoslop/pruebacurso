@@ -10,5 +10,5 @@ También puedes descargar la versión imprimible del libro:
 - [Download PDF in English](../_static/ImagesofPPTs.pdf)
 
 ```{note}
-Este proyecto está diseñado para ser usado con **VS Code** y asistentes de **IA**.
+Este proyecto es solo una prueba.
 ```

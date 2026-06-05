@@ -159,7 +159,19 @@ def line_for_offset(text: str, offset: int) -> tuple[int, str]:
 
 def is_expected_question_mark_context(line: str) -> bool:
     """Skip URL query strings such as watch?v=... and cache busters."""
-    return "http" in line or "?v=" in line
+    # Ignorar ? en URLs, en parámetros de cache y en operadores ternarios de JS
+    if "?" not in line:
+        return False
+    # URLs o query strings esperados
+    if "http" in line or "?v=" in line or "?digest=" in line:
+        return True
+    # Operador ternario JavaScript/Python style ( ? ... : )
+    if "?" in line and ":" in line:
+        return True
+    # Comentario sourceMappingURL (no es query string)
+    if line.strip().startswith("//# sourceMappingURL="):
+        return True
+    return False
 
 
 def scan_file(path: Path) -> list[EncodingIssue]:

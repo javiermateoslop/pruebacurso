@@ -2,11 +2,7 @@
 
 *Resumen del contenido del PPT proporcionado por el docente.*
 
-```{image} ../../_static/recursos/TEMA_1_Campo_Electrico_I_slide12.png
-:alt: Diapositiva
-:width: 80%
-:align: center
-```
+
 
 ```{image} ../../_static/recursos/TEMA_1_Campo_Electrico_I_slide14.jpg
 :alt: Diapositiva

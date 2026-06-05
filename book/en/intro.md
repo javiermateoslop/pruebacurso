@@ -11,5 +11,5 @@ You can also download the printable version of the book:
 - [Descargar PDF en español](../_static/apuntesdefisica.pdf)
 
 ```{note}
-This project is designed to be used with **VS Code** and **AI** assistants.
+This project is just a test.
 ```
